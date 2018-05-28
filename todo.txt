@@ -1,0 +1,17 @@
+[ ] Simple prototype - a player, moving above a plane, a tps camera looking player, wireframe
+    [ ] Draw a cube
+    [ ] Draw a plane
+    [ ] Get input and move player
+    [ ] Proper camera look/movement
+    [ ] Basic object editor feature(move/scale/rotate)
+[ ] Extend prototype - basic physics?, shader, color, lighting, texturing(maybe not)
+    [ ] Physics(only sphere for now)
+    [ ] Color and texturing
+    [ ] Basic foward lighting shader
+[ ] Extend gameplay? (Not decided yet)
+    [ ] Interaction?
+    [ ] Combat?
+    [ ] Enemy?
+    [ ] AI?
+    [ ] Item?
+    [ ] UI?
