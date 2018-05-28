@@ -1,0 +1,7 @@
+.vs/
+Debug/
+Release/
+*.obj
+*.exe
+*.dll
+moonwhale/moonwhale.vcxproj.user
